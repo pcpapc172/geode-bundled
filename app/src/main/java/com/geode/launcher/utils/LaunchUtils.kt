@@ -1,4 +1,4 @@
-package com.geode.bundled1.utils
+package com.geode.launcher.utils
 
 import android.content.Context
 import android.os.Build

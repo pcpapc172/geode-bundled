@@ -1,4 +1,4 @@
-package com.geode.bundled1.preferences.components
+package com.geode.launcher.preferences.components
 
 import android.content.Context
 import android.content.Intent
@@ -41,12 +41,12 @@ import androidx.compose.ui.semantics.Role
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.geode.bundled1.R
-import com.geode.bundled1.ui.theme.GeodeLauncherTheme
-import com.geode.bundled1.ui.theme.Typography
-import com.geode.bundled1.utils.LabelledText
-import com.geode.bundled1.utils.PreferenceUtils
-import com.geode.bundled1.utils.ProfileManager
+import com.geode.launcher.R
+import com.geode.launcher.ui.theme.GeodeLauncherTheme
+import com.geode.launcher.ui.theme.Typography
+import com.geode.launcher.utils.LabelledText
+import com.geode.launcher.utils.PreferenceUtils
+import com.geode.launcher.utils.ProfileManager
 import kotlin.collections.get
 import kotlin.math.log10
 import kotlin.math.roundToInt

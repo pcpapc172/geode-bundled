@@ -1,6 +1,6 @@
-package com.geode.bundled1.updater
+package com.geode.launcher.updater
 
-import com.geode.bundled1.utils.LaunchUtils
+import com.geode.launcher.utils.LaunchUtils
 import kotlin.time.Instant
 import kotlinx.serialization.Serializable
 import kotlin.time.ExperimentalTime

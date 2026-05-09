@@ -1,4 +1,4 @@
-package com.geode.bundled1.ui.theme
+package com.geode.launcher.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

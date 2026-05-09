@@ -1,4 +1,4 @@
-package com.geode.bundled1
+package com.geode.launcher
 
 import android.annotation.SuppressLint
 import android.content.Intent
@@ -26,15 +26,15 @@ import androidx.core.view.WindowInsetsControllerCompat
 import androidx.core.view.updatePadding
 import com.customRobTop.BaseRobTopActivity
 import com.customRobTop.JniToCpp
-import com.geode.bundled1.main.LaunchNotification
-import com.geode.bundled1.main.determineDisplayedCards
-import com.geode.bundled1.utils.Constants
-import com.geode.bundled1.utils.ConstrainedFrameLayout
-import com.geode.bundled1.utils.DownloadUtils
-import com.geode.bundled1.utils.GamePackageUtils
-import com.geode.bundled1.utils.GeodeUtils
-import com.geode.bundled1.utils.LaunchUtils
-import com.geode.bundled1.utils.PreferenceUtils
+import com.geode.launcher.main.LaunchNotification
+import com.geode.launcher.main.determineDisplayedCards
+import com.geode.launcher.utils.Constants
+import com.geode.launcher.utils.ConstrainedFrameLayout
+import com.geode.launcher.utils.DownloadUtils
+import com.geode.launcher.utils.GamePackageUtils
+import com.geode.launcher.utils.GeodeUtils
+import com.geode.launcher.utils.LaunchUtils
+import com.geode.launcher.utils.PreferenceUtils
 import org.cocos2dx.lib.Cocos2dxGLSurfaceView
 import org.cocos2dx.lib.Cocos2dxHelper
 import org.cocos2dx.lib.Cocos2dxRenderer

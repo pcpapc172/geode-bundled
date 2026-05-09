@@ -1,4 +1,4 @@
-package com.geode.bundled1.main
+package com.geode.launcher.main
 
 import android.content.Context
 import android.content.Intent
@@ -27,13 +27,13 @@ import androidx.compose.ui.platform.LocalViewConfiguration
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
-import com.geode.bundled1.GeometryDashActivity
-import com.geode.bundled1.R
-import com.geode.bundled1.preferences.SettingsActivity
-import com.geode.bundled1.utils.Constants
-import com.geode.bundled1.utils.GamePackageUtils
-import com.geode.bundled1.utils.GeodeUtils
-import com.geode.bundled1.utils.PreferenceUtils
+import com.geode.launcher.GeometryDashActivity
+import com.geode.launcher.R
+import com.geode.launcher.preferences.SettingsActivity
+import com.geode.launcher.utils.Constants
+import com.geode.launcher.utils.GamePackageUtils
+import com.geode.launcher.utils.GeodeUtils
+import com.geode.launcher.utils.PreferenceUtils
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.collectLatest
 

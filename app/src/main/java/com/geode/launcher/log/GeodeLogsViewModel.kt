@@ -1,10 +1,10 @@
-package com.geode.bundled1.log
+package com.geode.launcher.log
 
 import android.app.Application
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.viewmodel.initializer
 import androidx.lifecycle.viewmodel.viewModelFactory
-import com.geode.bundled1.utils.LaunchUtils
+import com.geode.launcher.utils.LaunchUtils
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 import java.io.File

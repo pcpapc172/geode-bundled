@@ -1,7 +1,7 @@
-package com.geode.bundled1.updater
+package com.geode.launcher.updater
 
-import com.geode.bundled1.BuildConfig
-import com.geode.bundled1.utils.LaunchUtils
+import com.geode.launcher.BuildConfig
+import com.geode.launcher.utils.LaunchUtils
 import kotlin.time.Clock
 import kotlinx.datetime.DateTimeUnit
 import kotlin.time.Instant

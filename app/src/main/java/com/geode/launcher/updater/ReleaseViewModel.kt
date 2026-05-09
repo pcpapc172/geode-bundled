@@ -1,4 +1,4 @@
-package com.geode.bundled1.updater
+package com.geode.launcher.updater
 
 import android.app.Application
 import androidx.lifecycle.ViewModel

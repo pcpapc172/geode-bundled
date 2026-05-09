@@ -1,7 +1,7 @@
-package com.geode.bundled1
+package com.geode.launcher
 
 import androidx.annotation.Keep
-import com.geode.bundled1.utils.Constants
+import com.geode.launcher.utils.Constants
 
 @Keep
 object LauncherFix {
